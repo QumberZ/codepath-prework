@@ -1,10 +1,10 @@
-## Prework
+## Hello World App - Code Path ios Pre-work Project
 
 ### App Description
-`TODO://` change label text from button
+change label text from button
 
 ### App Walk-though
-`TODO://` Add the URL to your animated app walk-though `gif` in the image tag below. Make sure the gif actually renders and animates when viewing this README. (☝️ Remove this paragraph after after adding gif)
+Add the URL to your animated app walk-though `gif` in the image tag below. Make sure the gif actually renders and animates when viewing this README. (☝️ Remove this paragraph after after adding gif)
 
 <img src="https://recordit.co/ENxOz3SBft" width=200><br>
 

@@ -4,7 +4,7 @@
 change label text from button
 
 
-<img src="https://recordit.co/ENxOz3SBft" width=200><br>
+<img src="[https://recordit.co/ENxOz3SBft](http://g.recordit.co/ENxOz3SBft.gif)" width=200><br>
 
 
 ### Required User Stories
